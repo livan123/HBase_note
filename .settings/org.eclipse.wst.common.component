@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="cloud_note">
+    <wb-module deploy-name="HBase_note">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="java-output-path" value="/cloud_note/build/classes"/>
-        <property name="context-root" value="cloud_note"/>
+        <property name="java-output-path" value="/HBase_note/build/classes"/>
+        <property name="context-root" value="HBase_note"/>
     </wb-module>
 </project-modules>
